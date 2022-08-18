@@ -1,0 +1,2 @@
+Navbar Background : #3CB371
+Jumbotron : #E0FFFF
